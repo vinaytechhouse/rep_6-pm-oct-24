@@ -1,12 +1,14 @@
-Objective of this practice:
+Objective of this practice : For Cloud practice
 
 a) You want to let your customers how to use Power BI app and how to browse reports
-b) How to scan a Power Bi Report
-c) Customer insights / perception / review / annotation about business values or report information sharing with others
 
+b) How to scan a Power Bi Report
+
+c) Customer insights / perception / review / annotation about business values or report information sharing with others
 
 Power BI Service practice work:
 ===================
+
 Step #1:
 
 Open mobile / tab, go to Power BI App, choose Power BI Service, and use the below
