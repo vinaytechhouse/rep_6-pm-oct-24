@@ -1,0 +1,51 @@
+Objective of this practice:
+
+a) You want to let your customers how to use Power BI app and how to browse reports
+b) How to scan a Power Bi Report
+c) Customer insights / perception / review / annotation about business values or report information sharing with others
+
+
+Power BI Service practice work:
+===================
+Step #1:
+
+Open mobile / tab, go to Power BI App, choose Power BI Service, and use the below
+credentials. [Go to play store or any store, download Power BI App]
+
+Power BI Account: 
+vinaytech_260824@vinaytechhouse.com
+
+Password: 
+vinaytech@2024
+
+Step #2:
+
+Go to Apps, Under Recent, click the App created [or browse for app], browse reports.
+
+Observations: Browse two reports [Also verify the drill through from Dept_Analysis to Emp_Analysis]
+
+Step #3:
+
+Go to one by one options in the down [comments, pages, reset, annotations], specify annotated Text, Emoji, and some marking, Click share [on top right hand side corner] and share to 63043 92065 WhatsApp number or Email vinay.techhouse@gmail.com
+
+===============
+QR code scan:
+
+Open Power BI App, 
+go to camera icon on top and 
+scan the QR code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
